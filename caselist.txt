@@ -1,0 +1,17 @@
+pc/testPc_login
+pc/testPc_logout
+pc/testPc_getIndexPage
+pc/testPc_loanBidlist
+pc/testPc_loanXmlList
+pc/testPc_guQuanIndex
+pc/testPc_toHouseInfoList
+pc/testPc_capitalSafe
+pc/testPc_indexAbout
+pc/testPc_accPandectlist
+pc/testPc_touserinmoney
+pc/testPc_queryCardbinBf
+pc/testPc_userinmoney
+pc/testPc_touseroutmoney
+app/testApp_login
+#user/testAddAddress
+#user/testDeleteAddress

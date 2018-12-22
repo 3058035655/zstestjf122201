@@ -1,0 +1,21 @@
+URL: https://www.hongkunjinfu.com/loginAdmin.do?method=tologin   #jf正式
+QTURL: https://www.hongkunjinfu.com    #jf正式
+#URL: https://www.hongkunjinfu.com/hkjftest/loginAdmin.do?method=tologin   #jf预发布
+#URL: http://192.168.1.249:9902/hkjf/loginAdmin.do?method=tologin   #金服压测 测试
+#JKURL: http://192.168.1.249:9921  #http://192.168.1.249:9921/hkjfapp/invest/invest
+JKURL: https://www.hongkunjinfu.com  #jf正式
+
+HOST: 192.168.1.249
+PORT: 3307
+user: dev_db_user
+password: yrSuper001
+db: p2p_product_hotcopy
+charset: 'utf8mb4'
+
+log:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
